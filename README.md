@@ -5,7 +5,7 @@ Boxfuse Sample Hello World Java application packaged as a war file
 
 ## Prerequisites
 
-- Git
+- Gi
 - Java
 - Maven
 - VirtualBox
